@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\TestProject1.csproj": {}
+    "C:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\TestProject1.csproj": {
+    "C:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "c:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\TestProject1.csproj",
+        "projectPath": "C:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\TestProject1.csproj",
         "packagesPath": "C:\\Users\\Aldrovando\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\obj\\",
+        "outputPath": "C:\\Users\\Aldrovando\\Meu Drive\\DeepSeeker\\Reqres-CSTest\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aldrovando\\AppData\\Roaming\\NuGet\\NuGet.Config",

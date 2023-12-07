@@ -41,6 +41,11 @@ PS C:\Users\Aldrovando> scoop update allure
 allure: 2.24.1 (latest version)
 Latest versions for all apps are installed! For more information try 'scoop status'
 
+- Visualizar Relatórios do Allure:
+1- Ir para o diretório dos allure-results (.\bin\Debug\net7.0)
+2- >allure serve allure-results
+
+*************************************************************************************************************
 
 Prompts (DeepSeek Coder):
 
